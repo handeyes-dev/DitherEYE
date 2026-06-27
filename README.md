@@ -11,7 +11,7 @@ DitherEYE is a powerful offline image editor featuring 50+ dithering algorithms,
 </p>
 
 <p align="center">
-  <img src="assets/icon.png" width="150" alt="DitherEYE Icon">
+  <img src="assets/poster.png" width="150" alt="DitherEYE Poster">
 </p>
 
 <p align="center">
