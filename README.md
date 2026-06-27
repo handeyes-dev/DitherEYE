@@ -20,7 +20,7 @@ DitherEYE is a powerful offline image editor featuring 50+ dithering algorithms,
 
 ---
 
-📸 Screenshots
+## 📸 Screenshots
 
 <p align="center"> Experience DitherEYE's interface, powerful editing tools, and 50+ dithering filters. </p>
 
