@@ -20,6 +20,28 @@ DitherEYE is a powerful offline image editor featuring 50+ dithering algorithms,
 
 ---
 
+📸 Screenshots
+
+<p align="center"> Experience DitherEYE's interface, powerful editing tools, and 50+ dithering filters. </p>
+
+<table align="center"> <tr> <td align="center"> <img src="assets/screenshots/screenshot1.png" width="220"> </td>
+
+<td align="center"> <img src="assets/screenshots/screenshot2.png" width="220"> </td>
+
+<td align="center"> <img src="assets/screenshots/screenshot3.png" width="220"> </td>
+
+<td align="center"> <img src="assets/screenshots/screenshot4.png" width="220"> </td> </tr>
+
+<tr> <td align="center"> <img src="assets/screenshots/screenshot5.png" width="220"> </td>
+
+<td align="center"> <img src="assets/screenshots/screenshot6.png" width="220"> </td>
+
+<td align="center"> <img src="assets/screenshots/screenshot7.png" width="220"> </td>
+
+<td align="center"> <img src="assets/screenshots/screenshot8.png" width="220"> </td> </tr> </table>
+
+---
+
 ## ✨ Features
 
 ### 🎨 50+ Dithering Filters
@@ -87,27 +109,7 @@ Fine-tune every detail:
 * Offline processing
 * Fast PNG exporting
 
----
 
-📸 Screenshots
-
-<p align="center"> Experience DitherEYE's interface, powerful editing tools, and 50+ dithering filters. </p>
-
-<table align="center"> <tr> <td align="center"> <img src="assets/screenshots/screenshot1.png" width="220"> </td>
-
-<td align="center"> <img src="assets/screenshots/screenshot2.png" width="220"> </td>
-
-<td align="center"> <img src="assets/screenshots/screenshot3.png" width="220"> </td>
-
-<td align="center"> <img src="assets/screenshots/screenshot4.png" width="220"> </td> </tr>
-
-<tr> <td align="center"> <img src="assets/screenshots/screenshot5.png" width="220"> </td>
-
-<td align="center"> <img src="assets/screenshots/screenshot6.png" width="220"> </td>
-
-<td align="center"> <img src="assets/screenshots/screenshot7.png" width="220"> </td>
-
-<td align="center"> <img src="assets/screenshots/screenshot8.png" width="220"> </td> </tr> </table>
 
 ---
 
